@@ -1,0 +1,43 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 02 - 23.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 03 - 25.06.21\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.exe
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.deps.json
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.dll
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.pdb
+C:\Users\Marcelo\Desktop\Projeto02\Projeto02\obj\Debug\netcoreapp3.1\Projeto02.genruntimeconfig.cache
